@@ -1,7 +1,7 @@
 # Gender Roles
 Understanding Gender Diversity can help your school __provide a supportive, non-discriminatory environment for all students__, including gender diverse and transgender children. There are plenty of resources to help administrators, teachers, and staff gently move from awareness to action in order to create more inclusive learning and social environments. 
 
-We know that the numbers for young people who identify as gender diverse in Generation Z and younger is high, estimated at least one in ten, according to the American Psychological Association. So it totally makes sense to us that CEE would want to be up to date on the current climate with their students. 
+We know that the numbers for young people who identify as gender diverse in Generation Z and younger is high, estimated at least one in ten, according to the [American Psychological Association](https://www.nbcnews.com/nbc-out/out-news/nearly-1-10-teens-identify-gender-diverse-pittsburgh-study-rcna993). So it totally makes sense to us that CEE would want to be up to date on the current climate with their students. 
 
 We know that when we were in Toddlers there was professional development in implicit bias in early childhood education, with regards to race and skin color, and we’re hoping there can be some investment in exploring implicit bias around gender too. We’re happy to partner with you in any way that we can. Attentiveness to the equity and diversity in gender identity in schools can help create a solid and positive foundation for all children's future identity development.
 
@@ -11,7 +11,7 @@ Film:
 ## Definitions
 _Gender identity_ - Gender means how you feel inside. It’s your innermost feeling of maleness, femaleness, a blend of both or neither. One’s gender identity can be the same or different from their sex assigned at birth. 
 
-_Pronouns_ -  It’s respectful and supportive to use a person’s preferred pronouns. But just like gender, you can’t tell what someone’s pronouns are just by looking at them. Don’t assume. If you’re unsure of the pronouns of someone new, rather than assuming, Hunter Chinn-Raicht suggests sharing your own and opening the door for them to share theirs. “I like to say, ‘Hi, I’m Hunter, and I use they/them pronouns,’” they explain. In other situations, if they know the name but not pronouns, they might say, “Hey I think you’re cool. What are your pronouns?’”
+_Pronouns_ -  It’s respectful and supportive to use a person’s preferred pronouns. But just like gender, you can’t tell what someone’s pronouns are just by looking at them. Don’t assume. If you’re unsure of the pronouns of someone new, rather than assuming, [Hunter Chinn-Raicht](https://www.care.com/c/explaining-they-them-pronouns) suggests sharing your own and opening the door for them to share theirs. “I like to say, ‘Hi, I’m Hunter, and I use they/them pronouns,’” they explain. In other situations, if they know the name but not pronouns, they might say, “Hey I think you’re cool. What are your pronouns?’”
 
 You can read more about developmentally appropriate definitions here:
   - https://www.genderinclassrooms.com/definitions#:~:text=Gender%20means%20how%20you%20feel,%E2%80%8B 
