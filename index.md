@@ -1,4 +1,4 @@
-# Gender Roles
+## Gender Roles
 Understanding Gender Diversity can help your school __provide a supportive, non-discriminatory environment for all students__, including gender diverse and transgender children. There are plenty of resources to help administrators, teachers, and staff gently move from awareness to action in order to create more inclusive learning and social environments. 
 
 We know that the numbers for young people who identify as gender diverse in Generation Z and younger is high, estimated at least one in ten, according to the [American Psychological Association](https://www.nbcnews.com/nbc-out/out-news/nearly-1-10-teens-identify-gender-diverse-pittsburgh-study-rcna993). So it totally makes sense to us that CEE would want to be up to date on the current climate with their students. 
@@ -9,7 +9,8 @@ Check out this introductory film:
 
 <iframe src="https://player.vimeo.com/video/154811690" width="560" height="315" frameborder="0" title="Creating gender inclusive schools film" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
-More information available on this site: https://www.genderspectrum.org/articles/creating-gender-inclusive-schools-film
+
+More information available on this site: [https://www.genderspectrum.org/articles/creating-gender-inclusive-schools-film](https://www.genderspectrum.org/articles/creating-gender-inclusive-schools-film)
 
 ## Definitions
 _Gender identity_ - Gender means how you feel inside. It’s your innermost feeling of maleness, femaleness, a blend of both or neither. One’s gender identity can be the same or different from their sex assigned at birth. 
@@ -17,8 +18,8 @@ _Gender identity_ - Gender means how you feel inside. It’s your innermost feel
 _Pronouns_ -  It’s respectful and supportive to use a person’s preferred pronouns. But just like gender, you can’t tell what someone’s pronouns are just by looking at them. Don’t assume. If you’re unsure of the pronouns of someone new, rather than assuming, [Hunter Chinn-Raicht](https://www.care.com/c/explaining-they-them-pronouns) suggests sharing your own and opening the door for them to share theirs. “I like to say, ‘Hi, I’m Hunter, and I use they/them pronouns,’” they explain. In other situations, if they know the name but not pronouns, they might say, “Hey I think you’re cool. What are your pronouns?’”
 
 You can read more about developmentally appropriate definitions here:
-  - https://www.genderinclassrooms.com/definitions#:~:text=Gender%20means%20how%20you%20feel,%E2%80%8B 
-  - https://welcomingschools.org/resources/definitions-lgbtq-elementary-school 
+  - [https://www.genderinclassrooms.com/definitions#:~:text=Gender%20means%20how%20you%20feel,%E2%80%8B ](https://www.genderinclassrooms.com/definitions#:~:text=Gender%20means%20how%20you%20feel,%E2%80%8B)
+  - [https://welcomingschools.org/resources/definitions-lgbtq-elementary-school](https://welcomingschools.org/resources/definitions-lgbtq-elementary-school) 
 
 Here are some suggestions for introducing gender diversity to preschoolers:
   - https://welcomingschools.org/resources/lesson-plans-gender-identity-transgender-non-binary
@@ -26,8 +27,9 @@ Here are some suggestions for introducing gender diversity to preschoolers:
   - https://www.genderbread.org/ 
 
 More resources on pronouns:
-https://www.youtube.com/watch?v=64-WXswR_fA 
-http://www.genderwheel.com/pride-and-pronouns/ 
+
+<iframe src="https://www.youtube.com/watch?v=64-WXswR_fA" width="560" height="315" frameborder="0" title="Creating gender inclusive schools film" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+<iframe src="https://vimeo.com/344293463" width="560" height="315" frameborder="0" title="Creating gender inclusive schools film" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
 Example Questions To Ask: 
   - “What do you feel is your gender?”
