@@ -5,7 +5,7 @@ We know that the numbers for young people who identify as gender diverse in Gene
 
 We know that when we were in Toddlers there was professional development in implicit bias in early childhood education, with regards to race and skin color, and we’re hoping there can be some investment in exploring implicit bias around gender too. We’re happy to partner with you in any way that we can. Attentiveness to the equity and diversity in gender identity in schools can help create a solid and positive foundation for all children's future identity development.
 
-Check out this introductory film:
+Check out this short trailer about gender inclusive school:
 
 <iframe src="https://player.vimeo.com/video/154811690" width="560" height="315" frameborder="0" title="Creating gender inclusive schools film" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
