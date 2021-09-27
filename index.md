@@ -6,9 +6,10 @@ We know that the numbers for young people who identify as gender diverse in Gene
 We know that when we were in Toddlers there was professional development in implicit bias in early childhood education, with regards to race and skin color, and we’re hoping there can be some investment in exploring implicit bias around gender too. We’re happy to partner with you in any way that we can. Attentiveness to the equity and diversity in gender identity in schools can help create a solid and positive foundation for all children's future identity development.
 
 Check out this introductory film:
-<iframe id="video" width="560" height="315" src="https://player.vimeo.com/154811690" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen=""></iframe>
 
-More information on this site: https://www.genderspectrum.org/articles/creating-gender-inclusive-schools-film
+<iframe src="https://player.vimeo.com/video/154811690" width="560" height="315" frameborder="0" title="Creating gender inclusive schools film" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+
+More information available on this site: https://www.genderspectrum.org/articles/creating-gender-inclusive-schools-film
 
 ## Definitions
 _Gender identity_ - Gender means how you feel inside. It’s your innermost feeling of maleness, femaleness, a blend of both or neither. One’s gender identity can be the same or different from their sex assigned at birth. 
