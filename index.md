@@ -17,27 +17,28 @@ _Gender identity_ - Gender means how you feel inside. It’s your innermost feel
 
 _Pronouns_ -  It’s respectful and supportive to use a person’s preferred pronouns. But just like gender, you can’t tell what someone’s pronouns are just by looking at them. Don’t assume. If you’re unsure of the pronouns of someone new, rather than assuming, [Hunter Chinn-Raicht](https://www.care.com/c/explaining-they-them-pronouns) suggests sharing your own and opening the door for them to share theirs. “I like to say, ‘Hi, I’m Hunter, and I use they/them pronouns,’” they explain. In other situations, if they know the name but not pronouns, they might say, “Hey I think you’re cool. What are your pronouns?’”
 
-You can read more about developmentally appropriate definitions here:
-  - [https://www.genderinclassrooms.com/definitions#:~:text=Gender%20means%20how%20you%20feel,%E2%80%8B ](https://www.genderinclassrooms.com/definitions#:~:text=Gender%20means%20how%20you%20feel,%E2%80%8B)
-  - [https://welcomingschools.org/resources/definitions-lgbtq-elementary-school](https://welcomingschools.org/resources/definitions-lgbtq-elementary-school) 
-
-Here are some suggestions for introducing gender diversity to preschoolers:
-  - https://welcomingschools.org/resources/lesson-plans-gender-identity-transgender-non-binary
-  - https://assets2.hrc.org/welcoming-schools/documents/WS_Gender_Snowperson_Teacher_version.pdf 
-  - https://www.genderbread.org/ 
-
-More resources on pronouns:
-
-<iframe src="https://www.youtube.com/watch?v=64-WXswR_fA" width="560" height="315" frameborder="0" title="Creating gender inclusive schools film" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
-<iframe src="https://vimeo.com/344293463" width="560" height="315" frameborder="0" title="Creating gender inclusive schools film" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
-
 Example Questions To Ask: 
   - “What do you feel is your gender?”
   - “Are you boy, girl, both or neither?”
   - “Are you boy, girl, or nonbinary?”
 
+You can read more about developmentally appropriate definitions here:
+  - [https://www.genderinclassrooms.com/definitions#:~:text=Gender%20means%20how%20you%20feel,%E2%80%8B ](https://www.genderinclassrooms.com/definitions#:~:text=Gender%20means%20how%20you%20feel,%E2%80%8B)
+  - [https://welcomingschools.org/resources/definitions-lgbtq-elementary-school](https://welcomingschools.org/resources/definitions-lgbtq-elementary-school) 
+
+Here are some suggestions for introducing gender diversity to preschoolers:
+  - [https://welcomingschools.org/resources/lesson-plans-gender-identity-transgender-non-binary](https://welcomingschools.org/resources/lesson-plans-gender-identity-transgender-non-binary)
+  - [https://assets2.hrc.org/welcoming-schools/documents/WS_Gender_Snowperson_Teacher_version.pdf](https://assets2.hrc.org/welcoming-schools/documents/WS_Gender_Snowperson_Teacher_version.pdf) 
+  - [https://www.genderbread.org/](https://www.genderbread.org/)
+
+More resources on pronouns:
+
+<iframe src="https://www.youtube.com/watch?v=64-WXswR_fA" width="560" height="315" frameborder="0" title="Pronouns 1" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+
+<iframe src="https://player.vimeo.com/344293463" width="560" height="315" frameborder="0" title="Pronouns 2" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+
 ## Language Matters!
-Avoid gender-specific language when speaking to your class. Be aware that sometimes we use boy-girl language where some kids can’t find a place for themselves. Instead of calling your students to attention with “boys and girls …” get their attention in different ways. Say “kids” or “children” or “students.” 
+Avoid gender-specific language when speaking to your class. Be aware that sometimes we use boy-girl language where some kids can’t find a place for themselves. Instead of calling your students to attention with “boys and girls …” get their attention in different ways. Say “kids” or "friends" or “children” or “students.” 
 
 Don’t assume the gender of someone in a book you are reading. Say “kid” instead.
 
@@ -49,6 +50,6 @@ Some helpful tips on teaching kids how to intervene and stand up for their frien
 
 ## Trainings & Professional Development:
 Some teachers may lack confidence in their abilities to provide effective information on gender diversity. So we’d love to point out at least two educator training programs to help inform teachers on these topics across all grade levels at CEE. 
-Gender Spectrum is a great resource for schools. They do professional development trainings (read more here) and hold a yearly symposium around timely topics (read more here).  
-Gender Diversity trainings provide accurate, up-to-date, accessible information regarding the best practices schools can implement to create an inclusive environment for all students, regardless of gender status, and on an age-appropriate level. Learn more about them here.
+  - Gender Spectrum is a great resource for schools. They do professional development trainings ([read more here](https://www.genderspectrum.org/articles/professional-development-educators)) and hold a yearly symposium around timely topics ([read more here](https://2021-gender-spectrum-professionals-symposium.heysummit.com/)).  
+  - Gender Diversity trainings provide accurate, up-to-date, accessible information regarding the best practices schools can implement to create an inclusive environment for all students, regardless of gender status, and on an age-appropriate level. [Learn more about them here.](http://genderdiversity.org/best-practices-schools/)
 
