@@ -5,8 +5,10 @@ We know that the numbers for young people who identify as gender diverse in Gene
 
 We know that when we were in Toddlers there was professional development in implicit bias in early childhood education, with regards to race and skin color, and we’re hoping there can be some investment in exploring implicit bias around gender too. We’re happy to partner with you in any way that we can. Attentiveness to the equity and diversity in gender identity in schools can help create a solid and positive foundation for all children's future identity development.
 
-Check out the film on this site:
-<iframe id="video" width="700" height="315" src="https://www.genderspectrum.org/articles/creating-gender-inclusive-schools-film" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen=""></iframe>
+Check out this introductory film:
+<iframe id="video" width="560" height="315" src="https://vimeo.com/154811690" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen=""></iframe>
+
+More information on this site: https://www.genderspectrum.org/articles/creating-gender-inclusive-schools-film
 
 ## Definitions
 _Gender identity_ - Gender means how you feel inside. It’s your innermost feeling of maleness, femaleness, a blend of both or neither. One’s gender identity can be the same or different from their sex assigned at birth. 
@@ -14,8 +16,8 @@ _Gender identity_ - Gender means how you feel inside. It’s your innermost feel
 _Pronouns_ -  It’s respectful and supportive to use a person’s preferred pronouns. But just like gender, you can’t tell what someone’s pronouns are just by looking at them. Don’t assume. If you’re unsure of the pronouns of someone new, rather than assuming, [Hunter Chinn-Raicht](https://www.care.com/c/explaining-they-them-pronouns) suggests sharing your own and opening the door for them to share theirs. “I like to say, ‘Hi, I’m Hunter, and I use they/them pronouns,’” they explain. In other situations, if they know the name but not pronouns, they might say, “Hey I think you’re cool. What are your pronouns?’”
 
 You can read more about developmentally appropriate definitions here:
-<iframe id="video" width="700" height="315" src="https://www.genderinclassrooms.com/definitions#:~:text=Gender%20means%20how%20you%20feel,%E2%80%8B" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen=""></iframe>
-<iframe id="video" width="700" height="315" src="https://welcomingschools.org/resources/definitions-lgbtq-elementary-school" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen=""></iframe>
+  - https://www.genderinclassrooms.com/definitions#:~:text=Gender%20means%20how%20you%20feel,%E2%80%8B 
+  - https://welcomingschools.org/resources/definitions-lgbtq-elementary-school 
 
 Here are some suggestions for introducing gender diversity to preschoolers:
   - https://welcomingschools.org/resources/lesson-plans-gender-identity-transgender-non-binary
