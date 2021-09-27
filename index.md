@@ -1,4 +1,3 @@
-# Gender Notes for EC2B
 ## Gender Roles
 Understanding Gender Diversity can help your school __provide a supportive, non-discriminatory environment for all students__, including gender diverse and transgender children. There are plenty of resources to help administrators, teachers, and staff gently move from awareness to action in order to create more inclusive learning and social environments. 
 
