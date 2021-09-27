@@ -45,7 +45,7 @@ Don’t assume the gender of someone in a book you are reading. Say “kid” in
 ## Teaching Bystander Intervention Techniques To Help Prevent Bullying
 Some helpful tips on teaching kids how to intervene and stand up for their friends when others are being excluded or hurt:
   - Have them explore their ideas about gender identity and think about what is or is not fair with respect to gender.
-  - Teach them ways to address hurtful gender put-down.
+  - Teach them ways to address hurtful gender put-downs, such as "girls can't be pirates" or "boys can't be princesses."
   - Honor children when they stand up for themselves or others in the face of gender bias.   
 
 ## Trainings & Professional Development:
