@@ -34,11 +34,9 @@ Here are some suggestions for introducing gender diversity to preschoolers:
 
 More resources on pronouns:
 
-<iframe src="https://www.youtube.com/watch?v=64-WXswR_fA" width="560" height="315" frameborder="0" title="Pronouns 1" webkitallowfullscreen mozallowfullscreen allowfullscreen>
-</iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/64-WXswR_fA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-<iframe src="https://player.vimeo.com/344293463" width="560" height="315" frameborder="0" title="Pronouns 2" webkitallowfullscreen mozallowfullscreen allowfullscreen>
-</iframe>
+<iframe src="https://player.vimeo.com/video/344293463" width="560" height="315" frameborder="0" title="Creating gender inclusive schools film" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
 ## Language Matters!
 Avoid gender-specific language when speaking to your class. Be aware that sometimes we use boy-girl language where some kids can’t find a place for themselves. Instead of calling your students to attention with “boys and girls …” get their attention in different ways. Say “kids” or "friends" or “children” or “students.” 
