@@ -1,3 +1,4 @@
+# Gender Notes for EC2B
 ## Gender Roles
 Understanding Gender Diversity can help your school __provide a supportive, non-discriminatory environment for all students__, including gender diverse and transgender children. There are plenty of resources to help administrators, teachers, and staff gently move from awareness to action in order to create more inclusive learning and social environments. 
 
@@ -23,19 +24,21 @@ Example Questions To Ask:
   - “Are you boy, girl, or nonbinary?”
 
 You can read more about developmentally appropriate definitions here:
-  - [https://www.genderinclassrooms.com/definitions#:~:text=Gender%20means%20how%20you%20feel,%E2%80%8B ](https://www.genderinclassrooms.com/definitions#:~:text=Gender%20means%20how%20you%20feel,%E2%80%8B)
-  - [https://welcomingschools.org/resources/definitions-lgbtq-elementary-school](https://welcomingschools.org/resources/definitions-lgbtq-elementary-school) 
+  - [Child-friendly definitions](https://www.genderinclassrooms.com/definitions#:~:text=Gender%20means%20how%20you%20feel,%E2%80%8B)
+  - [Defining LGBTQ Words for Elementary School Students](https://welcomingschools.org/resources/definitions-lgbtq-elementary-school) 
 
 Here are some suggestions for introducing gender diversity to preschoolers:
-  - [https://welcomingschools.org/resources/lesson-plans-gender-identity-transgender-non-binary](https://welcomingschools.org/resources/lesson-plans-gender-identity-transgender-non-binary)
-  - [https://assets2.hrc.org/welcoming-schools/documents/WS_Gender_Snowperson_Teacher_version.pdf](https://assets2.hrc.org/welcoming-schools/documents/WS_Gender_Snowperson_Teacher_version.pdf) 
-  - [https://www.genderbread.org/](https://www.genderbread.org/)
+  - [Lesson Plans to Create Gender Expansive Classrooms and Support Transgender and Non-Binary Students](https://welcomingschools.org/resources/lesson-plans-gender-identity-transgender-non-binary)
+  - [Gender snowperson example](https://assets2.hrc.org/welcoming-schools/documents/WS_Gender_Snowperson_Teacher_version.pdf) 
+  - [Genderbread: A teaching tool for breaking the big concept of gender down into bite-sized, digestible pieces.](https://www.genderbread.org/)
 
 More resources on pronouns:
 
-<iframe src="https://www.youtube.com/watch?v=64-WXswR_fA" width="560" height="315" frameborder="0" title="Pronouns 1" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+<iframe src="https://www.youtube.com/watch?v=64-WXswR_fA" width="560" height="315" frameborder="0" title="Pronouns 1" webkitallowfullscreen mozallowfullscreen allowfullscreen>
+</iframe>
 
-<iframe src="https://player.vimeo.com/344293463" width="560" height="315" frameborder="0" title="Pronouns 2" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+<iframe src="https://player.vimeo.com/344293463" width="560" height="315" frameborder="0" title="Pronouns 2" webkitallowfullscreen mozallowfullscreen allowfullscreen>
+</iframe>
 
 ## Language Matters!
 Avoid gender-specific language when speaking to your class. Be aware that sometimes we use boy-girl language where some kids can’t find a place for themselves. Instead of calling your students to attention with “boys and girls …” get their attention in different ways. Say “kids” or "friends" or “children” or “students.” 
